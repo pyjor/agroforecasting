@@ -6,6 +6,6 @@ Summary: This is a Forecasting Model for the Ecuadorian Agro-food Industury, thi
 
 Methods: Pearson Coeficent, F test, Multiple linear regression (MLR). 
 
-Special thanks to my Co-worker Paula Suntaxi, she was crucial for this project.
+I want to extend a special thanks to my Co-worker Paula Suntaxi, she was crucial for this project.
 
 
